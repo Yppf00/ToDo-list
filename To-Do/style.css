@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: rgb(42, 50, 77);
+}
+.all {
+  width: 250px;
+  margin-top: 350px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+#button {
+  padding: 10px;
+}
+#input {
+  padding: 10px;
+}
+#container {
+  position: relative;
+  color: white;
+  margin-top: 10px;
+  font-size: 20px;
+}
