@@ -1,3 +1,4 @@
+// super simple todo list with small js
 let button = document.getElementById('button')
 button.addEventListener('click', function () {
    let input = document.getElementById('input');
